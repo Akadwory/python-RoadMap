@@ -1,0 +1,29 @@
+Battery: 100 %
+Battery: 90 %
+Battery: 80 %
+Battery: 70 %
+Battery: 60 %
+Battery: 50 %
+Battery: 40 %
+Battery: 30 %
+Battery: 20 %
+
+Low battery detected.
+Charging mode activated.
+
+Battery: 25 %
+Battery: 30 %
+Battery: 35 %
+Battery: 40 %
+Battery: 45 %
+Battery: 50 %
+Battery: 55 %
+Battery: 60 %
+Battery: 65 %
+Battery: 70 %
+Battery: 75 %
+Battery: 80 %
+Battery: 85 %
+Battery: 90 %
+Battery: 95 %
+Battery: 100 %
