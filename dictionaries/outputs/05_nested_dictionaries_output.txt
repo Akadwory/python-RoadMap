@@ -1,0 +1,11 @@
+Full drone structure:
+{'id': 'DRONE_01', 'power': {'battery': 50, 'voltage': 12.1}, 'navigation': {'gps': 'ONLINE', 'altitude': 250}}
+
+Accessing nested values:
+Battery: 50
+Voltage: 12.1
+GPS: ONLINE
+Altitude: 250
+
+Updated battery after drone use:
+Battery: 18

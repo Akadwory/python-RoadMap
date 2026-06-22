@@ -1,0 +1,3 @@
+Drone health check:
+Return to base
+Overheating detected

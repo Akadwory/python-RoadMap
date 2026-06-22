@@ -1,0 +1,13 @@
+Initial drone state:
+{'battery': 18, 'temperature': 42, 'gps': 'ONLINE'}
+
+Accessing individual values:
+Battery: 18
+Temperature: 42
+GPS: ONLINE
+
+Updated drone state:
+{'battery': 15, 'temperature': 35, 'gps': 'ONLINE'}
+
+Expanded drone state:
+{'battery': 15, 'temperature': 35, 'gps': 'ONLINE', 'altitude': 120, 'flight_mode': 'AUTO'}

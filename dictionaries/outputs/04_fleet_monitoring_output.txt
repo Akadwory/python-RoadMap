@@ -1,0 +1,4 @@
+Fleet health alerts:
+DRONE_01 needs charging
+DRONE_01 overheating detected
+DRONE_03 needs charging
