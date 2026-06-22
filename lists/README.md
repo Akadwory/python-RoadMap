@@ -145,7 +145,7 @@ Adding conditions:
 ```python
 for temperature in temperatures:
     if temperature > 30:
-        print("⚠️ High temperature detected:", temperature)
+        print("High temperature detected:", temperature)
     else:
         print("Normal temperature:", temperature)
 ```

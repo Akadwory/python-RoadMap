@@ -151,7 +151,7 @@ Normal temperature: 22
 Normal temperature: 26
 Normal temperature: 27
 Normal temperature: 30
-⚠️ High temperature detected: 33
+High temperature detected: 33
 ```
 
 ---
